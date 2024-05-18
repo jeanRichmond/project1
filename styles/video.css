@@ -1,0 +1,39 @@
+.video-preview {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  background-color: cadetblue;
+}
+
+.video-info-grid {
+  display: flex;
+  justify-content: center;
+}
+
+.thumbnail-row {
+  
+}
+
+
+.thumbnail {
+  height: 200px;
+  width: 400px;
+  border-radius: 15px;
+}
+
+.video-info {
+  line-height: px;
+}
+
+.video-title {
+  
+}
+
+.meow {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-top: 12px;
+  margin-right: 10px;
+}
